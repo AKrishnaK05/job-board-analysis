@@ -15,6 +15,10 @@ The analysis focuses on three key areas:
 **Dataset:** 1,206 application records  
 **Final Dataset:** 1,200 unique applications
 
+## Manager Summary
+
+[View the Recruitment Performance Summary](report/manager_summary.md)
+
 ## 1. Acquisition Channel Performance
 
 The objective is to identify which acquisition channels generate the highest number of hires relative to application volume.
