@@ -139,7 +139,6 @@ The analysis also includes grouping, aggregation, data cleaning, missing-value a
 
 ## 7. Limitations
 
-- The dataset is synthetic and may not fully represent real-world recruitment behaviour.
 - Missing acquisition sources limit channel attribution for 15 applications.
 - Some role-category/source combinations have relatively small sample sizes.
 - Missing reply times do not establish permanent non-response.
