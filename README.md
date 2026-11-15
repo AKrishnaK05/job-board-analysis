@@ -1,9 +1,7 @@
 # Job Board Application Analysis (July – September 2026)
 
-## Executive Summary & Manager's Note (~195 words)
+## Executive Summary & Manager's Note
 
-> **Manager Briefing: Q3 Application Analysis & Action Items**
->
 > **Key Findings:**
 > 1. **Source Performance:** Overall, **referrals** deliver the highest hire rate (**10.74 hires per 100 applications**), but this pattern does not hold across categories: **email** leads Software (11.36%), **college** leads Operations (20.00%), and **search** leads Data (7.41%).
 > 2. **Application Completeness:** Applicants completing all 4 steps achieve a **48.39% shortlist rate** versus just **9.28%** for incomplete applications—an absolute gain of **+39.11 percentage points (5.21x more likely)**.
@@ -81,7 +79,7 @@ The chart below summarizes the employer responsiveness and ghosting disparity (*
 
 ---
 
-## Data Cleaning & Hygiene Audit ("Say What You Fixed")
+## Data Cleaning & Hygiene Audit
 
 The raw dataset contained 1,206 rows. The following issues were audited and resolved:
 
@@ -104,7 +102,7 @@ job-board-analysis/
 ├── notebooks/
 │   └── analysis.ipynb                        # Executable Jupyter notebook
 └── outputs/
-    └── question_3_paid_vs_unpaid.png         # High-resolution chart (300 DPI)
+    └── question_3_paid_vs_unpaid.png         # High-resolution chart
 ```
 
 ### How to Re-run the Analysis
