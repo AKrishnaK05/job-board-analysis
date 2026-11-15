@@ -156,8 +156,10 @@ job-board-analysis/
 ├── notebooks/
 │   └── analysis.ipynb
 │
-└── outputs/
-    ├── question_3_paid_vs_unpaid.png
+├── outputs/
+│   └── question_3_paid_vs_unpaid.png
+│
+└── report/
     └── manager_summary.md
 ```
 
